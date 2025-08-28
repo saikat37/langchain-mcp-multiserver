@@ -111,13 +111,3 @@ Example (Docker Compose) — high level
 - Open an issue for design or security discussions before large changes.
 - Keep tool signatures stable. If you change a tool's input schema, bump the agent/tool compatibility version.
 
-## License
-Specify the license you want to use (e.g., MIT). Add a `LICENSE` file if you change this.
-
----
-
-If you want, I can:
-- Add a `Dockerfile`/`docker-compose.yml` and sample `Makefile` to make deployment reproducible.
-- Add a minimal `requirements.txt` with pinned versions and basic unit tests for the tool wrappers.
-
-Tell me which next step you'd like. 
