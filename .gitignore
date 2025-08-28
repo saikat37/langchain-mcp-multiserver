@@ -1,0 +1,98 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+build/
+dist/
+eggs/
+*.egg-info/
+.eggs/
+parts/
+sdist/
+var/
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+env.bak/
+venv.bak/
+
+# Env files (secrets)
+.env
+.env.*
+secrets.json
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Testing
+.tox/
+.nox/
+.pytest_cache/
+.coverage
+.coverage.*
+coverage.xml
+htmlcov/
+.hypothesis/
+
+# Type check / caches
+.mypy_cache/
+.pyre/
+
+# IDEs and editors
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+logs/
+
+# Databases
+*.db
+*.sqlite3
+
+# Secrets / keys
+*.pem
+*.key
+credentials.json
+
+# Docker / Compose local overrides
+docker-compose.override.yml
+.dockerignore
+
+# Build artifacts
+*.egg
+*.whl
+
+# Language server / editors
+.cache/
+
+# Optional: local MCP/state files
+.mcp_state/
+*.pid
+
+# JetBrains
+.idea/
+*.iml
+
+# Node modules (if any frontend added later)
+node_modules/
+
+# VS Code settings for remote containers
+.devcontainer/
+

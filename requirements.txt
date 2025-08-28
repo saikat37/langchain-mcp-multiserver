@@ -1,0 +1,10 @@
+langchain
+langchain-community
+langchain_groq
+langchain_tavily
+# langchain_langsmith
+
+tavily-python
+
+langchain-mcp-adapters
+fastmcp
